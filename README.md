@@ -1,5 +1,5 @@
 # Informatica MDM SaaS IICS API Library 
- Informatica IICS API Library for Python - Designed for ease of use of the IICS API
+ Informatica IICS API Library for Python - Designed for ease of use of the IICS API <br>
  Author: Nick Smith 2022, all rights reserved
 
 ## Overview
