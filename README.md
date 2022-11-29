@@ -16,6 +16,6 @@
 ### Merge
     Backlog
 ### Unmerge
-    BacklogBacklog
+    Backlog
 
 
